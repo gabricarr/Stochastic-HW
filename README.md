@@ -2,4 +2,4 @@
 
 
 
-Repository for Stochastic Processes class homework and project
+Repository for Stochastic Processes class homework
